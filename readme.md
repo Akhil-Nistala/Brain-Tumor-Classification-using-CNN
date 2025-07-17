@@ -77,14 +77,6 @@ A plot of training vs. validation loss helps visualize learning trends and detec
 
 ---
 
-## ✅ Final Notes
 
-This project demonstrates how CNNs can effectively classify medical images. It can be extended with:
-
-* Data augmentation
-* Transfer learning
-* Model explainability (e.g., Grad-CAM)
-
----
 
 
