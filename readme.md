@@ -56,7 +56,7 @@ We built a **CNN model** using Keras. Below is the structure:
 
 ## 📈 Training Details
 
-* **Epochs**: 30
+* **Epochs**: 40
 * **Batch Size**: 40
 * **Input Shape**: 128x128 RGB images
 * **Verbose**: 1 (progress shown per epoch)
